@@ -1,0 +1,11 @@
+h5py==3.16.0
+ipykernel==7.2.0
+matplotlib==3.10.8
+matplotlib-inline==0.2.1
+numpy==2.2.6
+pysindy==2.1.0
+scikit-learn==1.7.2
+scipy==1.15.3
+torch==2.6.0+cu124
+torch-geometric==2.7.0
+torchvision==0.21.0+cu124
